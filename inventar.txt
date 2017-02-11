@@ -1,207 +1,396 @@
 accroche-torchon
+věšák na utěrky
 affiche
+plakát
 alaise
+ložní podložka
 allonge électrique
+prodlužovačka
 abattant WC
+WC prkýkno
 applique
+nástěnná lampa
 armoire
+skříň
 armoire de toilette
+toaletní skříňka
 assiette plate
+plochý talíř
 assiette a dessert
+dezertní talíř
 assiette creuse
+hluboký talíř
 aspirateur
+vysavač
 autocuiseur
+rychlovarný hrnec
 bahut
+nízká kredenc, příborník
 baignoire
+vana
 balai
+smeták
 balai brosse
+smeták kartáčový
 balai mécanique
+mechanický kartáč
 balayette
+smetáček
 banc
+lavice
 banquette gignogne
+rozkládací postel / gauč
 bassine
+lavor
 beurrier
+máselnice
 bidet
-bissel
+bidet
 boite à sucre
+cukřenka
 bol
+miska
 bougeoir
+svícen
 bougie
+svíčka
 brosse
+kartáč
 brosse à vaiselle
+kartáč na nádobí
 cafeterie
+konvice na kávu
 canapé lit
+rozkládací pohovka
 carafe à eau
+karafa na vodu
 casserole
+kastról
 cendrier
+popelník
 chaise
+židle
 chaise longue
+lehátko
 chaise pliante
+skládací židle
 cintre
+ramínko
 clé à sardines
+otvírák na konzervy
 clé universelle
+univerzální vývrtka
 cocotte en fonte
+litinový kastrol do trouby
 cocotte minute
+tlakový hrnec
 commode
+komoda
 coquetier
+pohárek na vejce
 corbeille à fruits
+koš na ovoce
 corbeille à pain
+koš na chleba
 corbeille à papier
+koš na papír
 couette
+přikrývka
 coussin
+polštářek
 couteau
+nůž
 lampadaire
+stojací lampa
 lampe de chevet
+lampička na noční stolek
 lampe pied
+stojací lampa
 lavabo
+umyvadlo
 couteau à dessert
+nůž na zákusky
 couteau à éplucher
+nůž na loupání, škrabka
 couteau à pain
+nůž na chleba
 couteau de cuisine
+kuchyňský nůž
 couvercle
+poklička
 couverts
+příbory
 couverts à salade
+salátové příbory
 cuillere
+lžíce
 cuillere à café
+lžička na kafe
 cuillere à dessert
+lžička na zákusek
 cuillere à sauce
+omáčková lžíce
 cuillere à soupe
+polévková lžíce
 cuillere en bois
+dřevěná lžíce
 cuisine
+kuchyně
 cuisinière (2 plaques)
+sporák (2 plotýnky)
 cuisinière (3 plaques)
+sporák (3 plotýnky)
 cuvette
+dřez
 décapsuleur
+otvírák na pivo
 dessous de bouteille
+tácek pod láhev
 dessous de plat
+podložka pod talíř
 dessus de lit
+přehoz přes postel
 duvet
-economie
+peřina
 ecumoire
+sběračka na pěnu
 égouttoir
+odkapávač
 égouttoir à légume
+odkapávač na zeleninu
 égouttoir à vasselle
+odkapávač na nádobí
 ensemble sel/poivre
+solnička s pepřenkou
 entonnoir
+trychtýř
 étagére
+polička na patra
 etendoir à linge
+sušák na prádlo
 essoreuse à salade
+osušovač salátu
 évier
+dřez
 faitout
+hrnec velkej na vše
 fer à repaser
+žehlička
 fouet
+šlehátko metlička
 four
+trouba
 fourchette
+vidlička
 frigidaire
+lednice
 friteuse
-glace
+fritéza
 globe
+globus
 gobelet
+pohár (na pití)
 goupillon
+štětka na lahve
 grille pain
+toustovač
 guéridon
+okrouhlý stolek (podatavec, trojnožka)
 housse
+potah
 housse grand coussin
+potah na velký polštář
 housse petit coussin
+potah na malý polštář
 huillier
+nádoba na olej
 rideau
+závěs
 rideau de douche
+závěs do sprchy
 saladier
+salátová mísa
 salière
+solnička
 lit
+postel
 lit gigogne
+rozkládací postel
 lit individuel
+samostatná postel
 lits superposés
+patrová poster
 lit tirroir
+vytahovací postel
 louche
+naběračka
 matelas
+matrace
 miroir
+zrcadlo
 mixer électrique
+elektrický mixér
 moule à gateau
+forma na dort
 molleton
+moleton
 moulin à café
+mlýnek na kávu
 moulin à fromage
+mlýnek na sýr
 moulin à légumes
+mlýnek na zeleninu
 moulin à poivre
+mlýnek na pepř
 nappe
-néon
+ubrus
 paillason
+rohožka před dveře
 panier à bouteille
+košík na lahve
 panier à salade
+košík na salát
 passette
+pasírovací sítko
 passoire
+cedník na těstoviny
 paterre
+věšák
 pelle
+lopatka
 pelle à gateau
-pinces à ligne
+lopatka na dort
+pinces à linge
+kolíčky na prádlo
 placard
+šatník
 plafonnier
+žárovka, světlo u stropu
 planche à découper
+prkénko na krájení
 planche à répasser
+žehlící prkno
 plaques électiques
+elektrické plotýnky
 plat
+mělký, tác, nízký
 plat à four
+plech do trouby
 plat creux
+tác hluboký, mísa
 plat ovale
+oválný tác
 plat rond
+kulatý tác
 plateau
+podnos
 poèle (à frire)
+pánev
 poignées isolante
+izolační rukojeť
 poivrette
+pepřenka
 porte manteau
+stojací věšák
 porte savon
+mýdlenka
 porte serviette
+věšák na ručník
 poubelle
+odpadkový koš
 poubelle cuisine
+kuchyňský odpadkový koš
 poubelle salle de bains
+odpadkový koš v koupelně
 pouf (pouffe)
+puf (nízký kulatý taburet)
 presse citrons
+vymačkávač citronů
 presse purée
+mačkátko na kaši
 ramasse couverts
+příborník
 range couverts
-rape
-rape à fromage
-ravier
+příborník
+râpe
+struhadlo
+râpe à fromage
+struhadlo na sýr
 réfrigerateur
+lednice
 salle de bains
+koupelna
 saucière
+nádoba na omáčku
 seau plastique
-séjour
+plastikový kbelík
+salle de séjour
+obývací pokoj
 serpillere
+hadr na podlahu, mop
 service à salade
+salátový servis
 set de table
+prostírání na stůl
 soucoupe
+podšálek
 soupière
+polévková mísa
 spatule en bois
+vařečka
 table
+stůl
 table basse
+konferenční stolek
 table pliante
+skládací stůl
 tableau
+obraz
 tabouret
+stolička
 taie d'oreiller
+povlak na polštář
 taie de traversin
+povlak na traversin
 tapis
+koberec
 tapis de bain
+rohožka do koupelny
 table de chevet
+noční stolek
 tablette de lavabo
+polička v koupelně
 tasse à café
+šálek na kávu
 tasse à déjeuner
+šálek obědový
 théiere
+čajová konvice
 tiroir
+šuplík
 tire-bouchon
+vývrtka
 toile cirée
+voskovaný ubrus
 torchon
+utěrka
 traversin
+podhlavník
 vaissele
+nádobí
 vase
-verres
-verres à liquer
+váza
+verre à liquer
+sklenička na likér
 verres à vin
+sklenice na víno
 verseuse à café
+nálevka na kávu
 voilages
-chambres
+závěs
 cuisine
+kuchyně
 salle de bain
+koupelna
 séjour
-
-
+obyvák
